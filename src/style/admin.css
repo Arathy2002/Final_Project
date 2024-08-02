@@ -1,0 +1,20 @@
+/* src/components/Admin.css */
+.admin-container {
+    display: flex;
+    height: 100vh;
+    background-color: #f3eeee; /* Light background color */
+  }
+  
+  .sidebar {
+    width: 250px;
+    background-color: #f8f4f4;
+    color: #FFD700;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  

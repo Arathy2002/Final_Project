@@ -1,0 +1,27 @@
+.about-container {
+    margin: 2rem;
+    padding: 2rem;
+    background-image: url("https://png.pngtree.com/background/20240112/original/pngtree-3d-render-of-market-downtrend-on-a-black-background-picture-image_7233540.jpg"); 
+    background-size: cover;
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(248, 248, 248, 0.1);
+    color: #ffffff; /* Set text color to white for better contrast against the background */
+  }
+  
+  .about-container h1, .about-container h2 {
+    color: #f7e019; /* Set headings color to white for better readability */
+  }
+  
+  .about-container p, .about-container ul, .about-container li {
+    color: #f1e78d; /* Set text color to white for better readability */
+  }
+  
+  .about-container ul {
+    list-style-type: disc;
+    margin-left: 2rem;
+  }
+  
+  .about-container ul li {
+    margin: 0.5rem 0;
+  }
+  
